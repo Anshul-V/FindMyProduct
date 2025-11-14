@@ -367,9 +367,7 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Developed by:** [Your Name]
-
-For questions or contributions, please open an issue or pull request in the repository.
+**Developed by:** [Anshul V]
 
 ---
 
