@@ -1,0 +1,1245 @@
+[
+  {
+    "name": "Dell Inspiron 14",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 47990,
+    "features": ["long battery", "portable", "lightweight"],
+    "use_case": ["office", "student"]
+  },
+
+  {
+    "name": "Dell Latitude 14",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 52990,
+    "features": ["business class", "durable", "security features"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "Dell XPS 13",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 89990,
+    "features": ["ultra portable", "high resolution display", "premium build"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "Dell Precision 5550",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 159990,
+    "features": ["workstation", "high performance", "professional graphics"],
+    "use_case": ["professional", "design"]
+  },
+  {
+    "name": "Dell Inspiron 16",
+    "category": "electronics",  
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 59990,
+    "features": ["large display", "good battery", "multitasking"],
+    "use_case": ["office", "student"]
+  },
+  {
+    "name": "Dell XPS 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 119990,
+    "features": ["high performance", "4K display", "premium build"],
+    "use_case": ["professional", "design"]
+  },
+  {
+    "name": "Dell Chromebook 11",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 29990,
+    "features": ["lightweight", "long battery", "easy to use"],
+    "use_case": ["student", "basic use"]
+  },
+  {
+    "name": "Dell Precision 7750",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 199990,
+    "features": ["workstation", "extreme performance", "professional graphics"],
+    "use_case": ["professional", "design"]
+  },
+  {
+    "name": "Dell Latitude 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 57990,
+    "features": ["business class", "durable", "security features"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "Dell XPS 17",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 149990,
+    "features": ["high performance", "large display", "premium build"],
+    "use_case": ["professional", "design"]
+  },
+  {
+    "name": "Dell Vostro 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 44990,
+    "features": ["reliable", "affordable", "good performance"],
+    "use_case": ["office", "student"]
+  },
+  {
+    "name": "Dell Alienware m15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 129990,
+    "features": ["high performance", "RGB lighting", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Dell G7 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 99990,
+    "features": ["high performance", "RGB keyboard", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Dell Chromebook 3100",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 31990,
+    "features": ["lightweight", "long battery", "easy to use"],
+    "use_case": ["student", "basic use"]
+  },
+  {
+    "name": "Dell XPS 13 2-in-1",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 99990,
+    "features": ["2-in-1 design", "high performance", "premium build"],
+    "use_case": ["professional", "student"]
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 49990,
+    "features": ["versatile", "good battery", "multitasking"],
+    "use_case": ["office", "student"]
+  },
+  {
+    "name": "Asus ROG Flow X13",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 139990,
+    "features": ["2-in-1 design", "high performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Asus TUF Gaming F15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 89990,
+    "features": ["high performance", "RGB keyboard", "durable"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Asus ZenBook 14",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 74990,
+    "features": ["lightweight", "portable", "long battery"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "Asus ROG Strix G15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 109990,
+    "features": ["high performance", "RGB keyboard", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Asus VivoBook S14",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 55990,
+    "features": ["stylish design", "portable", "good performance"],
+    "use_case": ["student", "office"]
+  },
+  {
+    "name": "Asus ExpertBook B9",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 99990,
+    "features": ["business class", "lightweight", "durable"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "Asus Chromebook Flip C434",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 42990,
+    "features": ["2-in-1 design", "lightweight", "long battery"],
+    "use_case": ["student", "basic use"]
+  },
+  {
+    "name": "Asus ROG Zephyrus G14",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 119990,
+    "features": ["high performance", "portable", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Asus ZenBook Flip 13",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 89990,
+    "features": ["2-in-1 design", "portable", "long battery"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "Asus ROG Phone 5",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 69990,
+    "features": ["high performance", "gaming optimized", "RGB lighting"],
+    "use_case": ["gaming", "mobile"]
+  },
+  {
+    "name": "Asus Chromebook C223",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 27990,
+    "features": ["lightweight", "long battery", "easy to use"],
+    "use_case": ["student", "basic use"]
+  },
+  {
+    "name": "Asus ZenBook 13",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 79990,
+    "features": ["lightweight", "portable", "long battery"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "Asus ROG Strix Scar 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 129990,
+    "features": ["high performance", "RGB keyboard", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Asus VivoBook Flip 14",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 64990,
+    "features": ["2-in-1 design", "touchscreen", "portable"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "Asus ExpertBook P2",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 69990,
+    "features": ["business class", "durable", "security features"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "Asus ProArt StudioBook 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Asus",
+    "price": 149990,
+    "features": ["workstation", "high performance", "professional graphics"],
+    "use_case": ["professional", "design"]
+  },
+  {
+    "name": "HP Pavilion 14",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "HP",
+    "price": 45990,
+    "features": ["lightweight", "portable", "long battery"],
+    "use_case": ["student", "office"]
+  },
+  {
+    "name": "HP Envy x360",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "HP",
+    "price": 69990,
+    "features": ["2-in-1 design", "touchscreen", "portable"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "HP Omen 17",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "HP",
+    "price": 119990,
+    "features": ["high performance", "RGB keyboard", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "HP ProBook 450",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "HP",
+    "price": 54990,
+    "features": ["business class", "durable", "security features"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "HP Envy 13",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "HP",
+    "price": 74990,
+    "features": ["premium build", "high resolution display", "portable"],
+    "use_case": ["professional", "student"]
+  },
+  {
+    "name": "HP Spectre x360",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "HP",
+    "price": 99990,
+    "features": ["2-in-1 design", "high performance", "premium build"],
+    "use_case": ["professional", "student"]
+  },
+  {
+    "name": "HP Omen 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "HP",
+    "price": 109990,
+    "features": ["high performance", "RGB keyboard", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "HP EliteBook 840",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "HP",
+    "price": 89990,
+    "features": ["business class", "durable", "security features"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "HP Chromebook x360",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "HP",
+    "price": 32990,
+    "features": ["lightweight", "long battery", "easy to use"],
+    "use_case": ["student", "basic use"]
+  },
+  {
+    "name": "HP ZBook Studio G7",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "HP",
+    "price": 159990,
+    "features": ["workstation", "high performance", "professional graphics"],
+    "use_case": ["professional", "design"]
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Lenovo",
+    "price": 129990,
+    "features": ["business class", "lightweight", "durable"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "Lenovo Yoga Slim 7",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Lenovo",
+    "price": 79990,
+    "features": ["2-in-1 design", "portable", "long battery"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "Lenovo Legion 5",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Lenovo",
+    "price": 99990,
+    "features": ["high performance", "RGB keyboard", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Lenovo ThinkBook 14s",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Lenovo",
+    "price": 59990,
+    "features": ["business class", "durable", "security features"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "Lenovo IdeaPad Flex 5",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Lenovo",
+    "price": 64990,
+    "features": ["2-in-1 design", "touchscreen", "portable"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "Lenovo ThinkPad T14",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Lenovo",
+    "price": 89990,
+    "features": ["business class", "durable", "security features"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Lenovo",
+    "price": 41990,
+    "features": ["lightweight", "portable", "long battery"],
+    "use_case": ["student", "office"]
+  },
+  {
+    "name": "Acer Aspire 7",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Acer",
+    "price": 55990,
+    "features": ["high performance", "backlit keyboard", "durable"],
+    "use_case": ["office", "gaming"]
+  },
+  {
+    "name": "Acer Swift 3",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Acer",
+    "price": 64990,
+    "features": ["lightweight", "portable", "long battery"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "Acer Predator Helios 300",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Acer",
+    "price": 99990,
+    "features": ["high performance", "RGB keyboard", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Acer Chromebook Spin 713",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Acer",
+    "price": 42990,
+    "features": ["2-in-1 design", "lightweight", "long battery"],
+    "use_case": ["student", "basic use"]
+  },
+  {
+    "name": "Acer Spin 5",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Acer",
+    "price": 89990,
+    "features": ["2-in-1 design", "touchscreen", "portable"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "Acer Nitro 5",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Acer",
+    "price": 79990,
+    "features": ["high performance", "RGB keyboard", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Acer Swift X",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Acer",
+    "price": 89990,
+    "features": ["lightweight", "high performance", "long battery"],
+    "use_case": ["professional", "student"]
+  },
+  {
+    "name": "Acer TravelMate P6",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Acer",
+    "price": 74990,
+    "features": ["business class", "lightweight", "durable"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "Dell Inspiron 14",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 47990,
+    "features": ["long battery", "portable", "lightweight"],
+    "use_case": ["office", "student"]
+  },
+  {
+    "name": "Dell Latitude 14",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 52990,
+    "features": ["business class", "durable", "security features"],
+    "use_case": ["office", "business"]
+  },
+  {
+    "name": "Dell XPS 13",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 89990,
+    "features": ["ultra portable", "high resolution display", "premium build"],
+    "use_case": ["student", "professional"]
+  },
+  {
+    "name": "Dell Precision 5550",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 159990,
+    "features": ["workstation", "high performance", "professional graphics"],
+    "use_case": ["professional", "design"]
+  },
+  {
+    "name": "Dell Inspiron 16",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 59990,
+    "features": ["large display", "good battery", "multitasking"],
+    "use_case": ["office", "student"]
+  },
+  {
+    "name": "Dell XPS 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 119990,
+    "features": ["high performance", "4K display", "premium build"],
+    "use_case": ["professional", "design"]
+  },
+  {
+    "name": "Dell Chromebook 11",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 29990,
+    "features": ["lightweight", "long battery", "easy to use"],
+    "use_case": ["student", "basic use"]
+  },
+  {
+    "name": "Dell Precision 7750",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 199990,
+    "features": ["workstation", "extreme performance"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Dell G15 Gaming",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 84990,
+    "features": ["RGB keyboard", "high performance", "thermal cooling"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Dell Vostro 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 44990,
+    "features": ["reliable", "affordable", "good performance"],
+    "use_case": ["office", "student"]
+  },
+  {
+    "name": "Dell Alienware m15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 129990,
+    "features": ["high performance", "RGB lighting", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Dell G7 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 99990,
+    "features": ["high performance", "RGB keyboard", "gaming optimized"],
+    "use_case": ["gaming"]
+  },
+  {
+    "name": "Dell Chromebook 3100",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 31990,
+    "features": ["lightweight", "long battery", "easy to use"],
+    "use_case": ["student", "basic use"]
+  },
+  {
+    "name": "Dell XPS 13 2-in-1",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 99990,
+    "features": ["2-in-1 design", "high performance", "premium build"],
+    "use_case": ["professional", "student"]
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "category": "electronics",
+    "sub_category": "laptop",
+    "brand": "Dell",
+    "price": 49990,
+    "features": ["versatile", "good battery", "multitasking"],
+    "use_case": ["office", "student"]
+  },
+  {
+    "name": "Redmi Note 10 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 25000,
+    "features": ["high performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Redmi 9 Power",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 12000,
+    "features": ["long battery", "good camera"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi Note 9",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 15000,
+    "features": ["good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi Note 8 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 18000,
+    "features": ["high performance", "good camera"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Redmi 10X",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 16000,
+    "features": ["5G support", "good camera"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi K20 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 28000,
+    "features": ["high performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Redmi Note 7 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 14000,
+    "features": ["good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi Note 10S",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 17000,
+    "features": ["good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi 9A",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 8000,
+    "features": ["affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi Note 9 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 20000,
+    "features": ["high performance", "good camera"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Redmi 9C",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 9000,
+    "features": ["affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi Note 8",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 13000,
+    "features": ["good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi K30 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 30000,
+    "features": ["high performance", "5G support", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Redmi Note 10",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 15000,
+    "features": ["good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi 9",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 10000,
+    "features": ["affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi Note 9S",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 18000,
+    "features": ["high performance", "good camera"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Redmi 8A",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 7000,
+    "features": ["affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi Note 8T",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 14000,
+    "features": ["good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi K30",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 25000,
+    "features": ["high performance", "5G support", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Redmi Note 10 5G",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 16000,
+    "features": ["5G support", "good camera"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi 9 Prime",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 11000,
+    "features": ["affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi Note 7",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 13000,
+    "features": ["good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi K20",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 27000,
+    "features": ["high performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Redmi 8",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 8000,
+    "features": ["affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Redmi Note 6 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Redmi",
+    "price": 12000,
+    "features": ["good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone 12",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 45000,
+    "features": ["Good camera", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone 13",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 60000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "IPhone 11",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 40000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone SE (2020)",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 30000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone XR",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 35000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone 12 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 70000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "IPhone XS",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 50000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone 13 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 80000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "IPhone 8",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 25000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone 7",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 20000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone 14",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 75000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "IPhone 6S",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 15000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone 14 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 90000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "IPhone 6",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 12000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone 15 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 95000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "IPhone 15",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 80000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "IPhone SE (2022)",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 35000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone 7 Plus",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 25000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "IPhone 13 Plus",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 98000,
+    "features": ["Gaming", "long battery"],
+    "use_case": ["gaming", "professional"]
+  },
+  {    
+    "name": "IPhone 11 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 60000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {    
+    "name": "IPhone 8 Plus",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 30000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {    
+    "name": "IPhone XS Max",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 65000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {    
+    "name": "IPhone 12 Mini",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 40000,
+    "features": ["Good camera", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {    
+    "name": "IPhone 14 Mini",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 60000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {    
+    "name": "IPhone 15 Plus",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 85000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {    
+    "name": "IPhone 11 Pro Max",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 70000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {    
+    "name": "IPhone XR Max",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 55000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {    
+    "name": "IPhone 6 Plus",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 13000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {    
+    "name": "IPhone 15 Ultra",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 120000,
+    "features": ["Extreme performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {    
+    "name": "IPhone 14 Pro Max",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Apple",
+    "price": 95000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Vivo V21",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 59000,
+    "features": ["Good camera", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Vivo Y20",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 15000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Vivo X60 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 70000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Vivo V15",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 25000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Vivo Y12",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 12000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Vivo Z1 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 22000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Vivo V19",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 30000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Vivo Y30",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 18000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Vivo X50 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 60000,
+    "features": ["High performance", "gaming optimized"],
+    "use_case": ["gaming", "professional"]
+  },
+  {
+    "name": "Vivo Y51A",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 20000,
+    "features": ["Affordable", "long battery"],
+    "use_case": ["basic use", "student"]
+  },
+  {
+    "name": "Vivo V11 Pro",
+    "category": "electronics",
+    "sub_category": "phone",
+    "brand": "Vivo",
+    "price": 28000,
+    "features": ["Good camera", "decent performance"],
+    "use_case": ["basic use", "student"]
+  }
+]

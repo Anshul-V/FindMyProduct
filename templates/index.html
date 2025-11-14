@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container mt-5 text-center">
+    <h1 class="mb-4">🛒 Personalized Product Finder</h1>
+    <p class="lead">Find the best products tailored to your needs</p>
+
+    <!-- Search Box -->
+    <form id="searchForm" class="d-flex justify-content-center mt-4">
+        <input type="text" id="query" class="form-control w-50" placeholder="Type your query (e.g., Dell laptop under 60000 for office)">
+        <button type="submit" class="btn btn-primary ms-2">🔍 Search</button>
+    </form>
+
+    <!-- Filters removed as per user request -->
+
+    <!-- Results Section -->
+    <div id="results" class="mt-5 text-start"></div>
+
+
+</div>
+
+<script>
+document.getElementById("searchForm").addEventListener("submit", async function(event) {
+    event.preventDefault();
+    const query = document.getElementById("query").value;
+
+    const response = await fetch("/recommend", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ query })
+    });
+
+    const results = await response.json();
+    const resultsDiv = document.getElementById("results");
+    resultsDiv.innerHTML = "";
+
+    if (results.length === 0) {
+        resultsDiv.innerHTML = "<p class='text-danger'>⚠️ No products found.</p>";
+        return;
+    }
+
+    results.forEach(product => {
+        const subCat = product.sub_category ? ` (${product.sub_category})` : '';
+        const card = `
+            <div class="card mb-3 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">${product.name} - <span class="text-muted">${product.brand}</span></h5>
+                    <p><strong>Category:</strong> ${product.category}${subCat}</p>
+                    <p><strong>Price:</strong> ₹${product.price}</p>
+                    <p><strong>Use Cases:</strong> ${product.use_case}</p>
+                    <p><strong>Features:</strong> ${product.features}</p>
+                </div>
+            </div>
+        `;
+        resultsDiv.innerHTML += card;
+    });
+});
+</script>
+{% endblock %}

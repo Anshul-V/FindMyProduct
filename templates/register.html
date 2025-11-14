@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container mt-4">
+    <h2>Register</h2>
+    <form method="POST" id="registerForm">
+        <div class="mb-3">
+            <label class="form-label">Role</label><br>
+            <div class="btn-group" role="group" aria-label="Role selection">
+                <input type="radio" class="btn-check" name="role" id="roleUser" value="user" autocomplete="off" checked>
+                <label class="btn btn-outline-primary" for="roleUser">User</label>
+
+                <input type="radio" class="btn-check" name="role" id="roleAdmin" value="admin" autocomplete="off">
+                <label class="btn btn-outline-danger" for="roleAdmin">Admin</label>
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Username</label>
+            <input type="text" name="username" class="form-control" required>
+        </div>
+
+        <div class="mb-3 admin-only d-none">
+            <label class="form-label">Unique ID</label>
+            <input type="text" name="unique_id" class="form-control">
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Mobile Number</label>
+            <input type="text" name="mobile_number" class="form-control" required>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input type="email" name="email" class="form-control" required>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Address</label>
+            <input type="text" name="address" class="form-control" required>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">State</label>
+            <input type="text" name="state" class="form-control" required>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Country</label>
+            <input type="text" name="country" class="form-control" required>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Password</label>
+            <div class="input-group">
+                <input type="password" name="password" class="form-control" required>
+                <button class="btn btn-outline-secondary" type="button" onclick="togglePassword(this)">
+                    <i class="bi bi-eye"></i>
+                </button>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Register</button>
+    </form>
+</div>
+<script>
+function togglePassword(button) {
+    const input = button.previousElementSibling;
+    const icon = button.querySelector('i');
+    if (input.type === 'password') {
+        input.type = 'text';
+        icon.classList.remove('bi-eye');
+        icon.classList.add('bi-eye-slash');
+    } else {
+        input.type = 'password';
+        icon.classList.remove('bi-eye-slash');
+        icon.classList.add('bi-eye');
+    }
+}
+
+// Show/hide unique_id field based on role selection
+document.addEventListener('DOMContentLoaded', function () {
+    const roleUser = document.getElementById('roleUser');
+    const roleAdmin = document.getElementById('roleAdmin');
+    const uniqueIdField = document.querySelector('.admin-only');
+
+    function toggleUniqueId() {
+        if (roleAdmin.checked) {
+            uniqueIdField.classList.remove('d-none');
+            uniqueIdField.querySelector('input').setAttribute('required', 'required');
+        } else {
+            uniqueIdField.classList.add('d-none');
+            uniqueIdField.querySelector('input').removeAttribute('required');
+        }
+    }
+
+    roleUser.addEventListener('change', toggleUniqueId);
+    roleAdmin.addEventListener('change', toggleUniqueId);
+
+    toggleUniqueId(); // initial call
+});
+</script>
+{% endblock %}
