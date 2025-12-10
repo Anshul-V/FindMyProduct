@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 * [✨ Overview](#-overview)
 * [🎯 Project Objectives](#-project-objectives)
@@ -23,7 +23,7 @@
 
 ---
 
-## ✨ Overview
+## Overview
 
 The **Personalized Product Finder** is a smart product-recommendation web application built with Flask that interprets **natural language queries** (e.g., "I want a lightweight laptop for office work under 50k") and returns the most relevant products from a database.
 
@@ -40,7 +40,7 @@ The project features:
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 ✔️ Build an efficient **NLP-based keyword extraction engine**
 ✔️ Enable users to search products using **natural language** via web interface
@@ -51,34 +51,34 @@ The project features:
 
 ---
 
-## 🧠 System Features
+## System Features
 
-### 🔍 NLP Understanding
+### NLP Understanding
 
 * Identifies **brand**, **category**, **features**, **use-cases**, **price limits**
 * Handles both short and long queries
 * Uses regex, sets, and rule-based keyword extraction
 
-### 📦 Product Matching & Filtering
+### Product Matching & Filtering
 
 * Matches user-extracted attributes with product metadata
 * Supports multi-attribute filtering with scoring
 * Ranking based on matching score and budget considerations
 
-### 🌐 Web Application (Flask)
+### Web Application (Flask)
 
 * User registration and login with secure password hashing
 * Natural language search interface
 * Admin dashboard for product CRUD operations
 * Responsive Bootstrap UI with templates
 
-### 🔐 Authentication & Security
+### Authentication & Security
 
 * Role-based access control (User/Admin)
 * Session management with Flask-Login
 * Admin registration with unique ID validation
 
-### 🗄️ Database Management
+### Database Management
 
 * SQLite database with SQLAlchemy ORM
 * Product, User, and AdminID models
@@ -86,7 +86,7 @@ The project features:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Layer            | Technology                       |
 | ---------------- | -------------------------------- |
@@ -100,7 +100,7 @@ The project features:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 User Query (Web UI) → NLP Processor → Extracted Keywords → Product Filter → Database Query → Ranked Results → Web Display
@@ -118,7 +118,7 @@ User Query (Web UI) → NLP Processor → Extracted Keywords → Product Filter 
 
 ---
 
-## 📝 NLP Pipeline
+## NLP Pipeline
 
 ### 1️⃣ **Preprocessing**
 
@@ -160,7 +160,7 @@ User Query (Web UI) → NLP Processor → Extracted Keywords → Product Filter 
 
 ---
 
-## 🚀 Backend APIs
+## Backend APIs
 
 ### 📌 **1. /recommend (POST)**
 
@@ -220,7 +220,7 @@ Health check endpoint.
 
 ---
 
-## 🗂️ Dataset & Metadata
+## Dataset & Metadata
 
 Products stored in JSON format and imported to SQLite database:
 
@@ -244,23 +244,23 @@ Products stored in JSON format and imported to SQLite database:
 
 ---
 
-## 🧪 Testing
+## Testing
 
-### ✔️ Manual Testing
+### Manual Testing
 
 * NLP extraction accuracy for various query types
 * Price parsing and budget filtering
 * Category, brand, and feature recognition
 * Product matching and scoring logic
 
-### ✔️ API Testing
+### API Testing
 
 * Web interface testing for search functionality
 * Authentication flow testing
 * Admin dashboard operations
 * Database operations and data integrity
 
-### ✔️ Edge Cases
+### Edge Cases
 
 * Empty or invalid queries
 * Products over budget
@@ -269,7 +269,7 @@ Products stored in JSON format and imported to SQLite database:
 
 ---
 
-## 📊 Results
+## Results
 
 * **High accuracy** for common keywords and brand recognition
 * **Effective filtering** based on budget and multiple attributes
@@ -279,7 +279,7 @@ Products stored in JSON format and imported to SQLite database:
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### 1️⃣ Clone the repository
 
@@ -323,7 +323,7 @@ python app.py
 
 ---
 
-## 🧩 Folder Structure
+## Folder Structure
 
 ```
 📦 product_finder_next_phase
@@ -351,7 +351,7 @@ python app.py
 
 ---
 
-## 📚 Future Enhancements
+## Future Enhancements
 
 🚀 Replace regex with **ML models (BERT, SpaCy)** for better NLP
 🛒 Integrate with real **e-commerce APIs** (Amazon, Flipkart)
@@ -367,7 +367,7 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Developed by:** [Anshul V]
+**Anshul V** 
 
 ---
 
